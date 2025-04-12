@@ -4,10 +4,12 @@ This project focuses on building a program to detect AI-generated images using a
 
 ## Project Structure
 
-├── model/model.h5 # Folder contain finetuned model
-├── image/ # Directory to store input images for detection
-├── app.py # Main script to run the detection program
-├── gen-image-detection.ipynb # Jupyter notebook for training and experimenting with the model
+.
+├── model/                
+│   └── model.h5          # Folder containing the fine-tuned model
+├── image/                # Directory to store input images for detection
+├── app.py                # Main script to run the detection program
+├── gen-image-detection.ipynb  # Jupyter notebook for training and experimenting with the model
 
 
 ## Features
